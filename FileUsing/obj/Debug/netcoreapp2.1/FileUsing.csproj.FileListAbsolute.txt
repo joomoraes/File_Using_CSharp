@@ -1,0 +1,11 @@
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\bin\Debug\netcoreapp2.1\FileUsing.deps.json
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\bin\Debug\netcoreapp2.1\FileUsing.runtimeconfig.json
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\bin\Debug\netcoreapp2.1\FileUsing.runtimeconfig.dev.json
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\bin\Debug\netcoreapp2.1\FileUsing.dll
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\bin\Debug\netcoreapp2.1\FileUsing.pdb
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\obj\Debug\netcoreapp2.1\FileUsing.csprojAssemblyReference.cache
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\obj\Debug\netcoreapp2.1\FileUsing.csproj.CoreCompileInputs.cache
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\obj\Debug\netcoreapp2.1\FileUsing.AssemblyInfoInputs.cache
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\obj\Debug\netcoreapp2.1\FileUsing.AssemblyInfo.cs
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\obj\Debug\netcoreapp2.1\FileUsing.dll
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\obj\Debug\netcoreapp2.1\FileUsing.pdb

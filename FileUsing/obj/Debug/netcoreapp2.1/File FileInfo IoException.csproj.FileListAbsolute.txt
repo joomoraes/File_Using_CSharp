@@ -1,0 +1,10 @@
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\bin\Debug\netcoreapp2.1\File FileInfo IoException.deps.json
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\bin\Debug\netcoreapp2.1\File FileInfo IoException.runtimeconfig.json
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\bin\Debug\netcoreapp2.1\File FileInfo IoException.runtimeconfig.dev.json
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\bin\Debug\netcoreapp2.1\File FileInfo IoException.dll
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\bin\Debug\netcoreapp2.1\File FileInfo IoException.pdb
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\obj\Debug\netcoreapp2.1\File FileInfo IoException.csproj.CoreCompileInputs.cache
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\obj\Debug\netcoreapp2.1\File FileInfo IoException.AssemblyInfoInputs.cache
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\obj\Debug\netcoreapp2.1\File FileInfo IoException.AssemblyInfo.cs
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\obj\Debug\netcoreapp2.1\File FileInfo IoException.dll
+C:\Users\joao.alves\source\repos\FileUsing\FileUsing\obj\Debug\netcoreapp2.1\File FileInfo IoException.pdb
